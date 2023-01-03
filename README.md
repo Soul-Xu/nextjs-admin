@@ -1,2 +1,2 @@
 # nextjs-admin
-nextjs, admin, ui component,  react
+nextjs, admin, ui component,  react, eslint, typescript
